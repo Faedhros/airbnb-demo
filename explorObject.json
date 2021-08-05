@@ -1,0 +1,42 @@
+[
+    {
+        "img": "https://rebrand.ly/37isiuk",
+        "location": "Mordor",
+        "distance": "45-minute drive"
+    },
+    {
+        "img": "https://rebrand.ly/47k1984",
+        "location": "Gondor",
+        "distance": "4.5-hour drive"
+    },
+    {
+        "img": "https://rebrand.ly/msmtcpn",
+        "location": "Rohan",
+        "distance": "4.5-hour drive"
+    },
+    {
+        "img": "https://rebrand.ly/obu7bay",
+        "location": "Isengard",
+        "distance": "4-hour drive"
+    },
+    {
+        "img": "https://rebrand.ly/0689nsq",
+        "location": "Moria",
+        "distance": "45-minute drive"
+    },
+    {
+        "img": "https://rebrand.ly/aarh04m",
+        "location": "The Argonath on the Anduin River",
+        "distance": "4.5-hour drive"
+    },
+    {
+        "img": "https://rebrand.ly/yp7337z",
+        "location": "Dead marshes",
+        "distance": "6-hour drive"
+    },
+    {
+        "img": "https://rebrand.ly/2fht7fd",
+        "location": "Hobbiton",
+        "distance": "2-hour drive"
+    }
+]
